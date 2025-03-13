@@ -1,4 +1,26 @@
-# GroundingSuite
+<div align ="center">
+<h1>GroundingSuite </h1>
+<h3>Measuring Complex Multi-Granular Pixel Grounding</h3>
+
+
+
+
+[![arxiv paper](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/2503.08686)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+</div>
+
+<div align="center">
+<img src="./assets/teaser.png">
+</div>
+
+## 📋 News
+
+`[2025-3-13]:` GroundingSuite [arXiv]() paper released. 
+
+
+
+
 
 GroundingSuite is a toolkit for evaluating the grounding capabilities of vision-language models. It assesses how accurately models can locate objects in images, supporting both bounding box and segmentation mask evaluation modes.
 
@@ -62,3 +84,12 @@ python evaluate_grounding.py --image_dir ./images --gt_file GroundingSuite-Eval.
 
 - **Box Mode**: Calculates IoU (Intersection over Union) and accuracy (IoU > threshold)
 - **Mask Mode**: Calculates GIoU (mean IoU)
+
+
+## 📚 Citation
+If you find GroundingSuite useful in your research or applications, please consider giving us a star &#127775; and citing it by the following BibTeX entry.
+
+
+```bibtex
+
+```
