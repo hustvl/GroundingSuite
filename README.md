@@ -20,7 +20,23 @@
 
 ## 📋 News
 
-`[2025-3-14]:` GroundingSuite [arXiv](https://arxiv.org/abs/2503.10596) paper released. 
+`[2025-3-14]:` GroundingSuite [arXiv](https://arxiv.org/abs/2503.10596) paper released. Code and dataset are now available!
+
+## 🌟 Highlights
+
+- **Automated VLM Annotation**: A novel VLM-based framework for efficient pixel-level grounding annotation
+- **Large-scale Dataset**: 9.56M training samples with diverse referring expressions
+- **Comprehensive Benchmark**: 3,800 instances evaluation benchmark for thorough assessment
+- **Efficient Annotation**: 4.5x faster annotation compared to GLaMM
+
+## 📝 Introduction
+
+GroundingSuite is a comprehensive pixel grounding framework that addresses the challenges of complex multi-granular pixel grounding. Our framework introduces:
+
+1. An automated VLM-based annotation pipeline that significantly improves annotation efficiency
+2. A large-scale dataset with 9.56M diverse training samples
+3. A rigorous evaluation benchmark with 3,800 carefully curated instances
+4. State-of-the-art performance metrics that demonstrate the effectiveness of our approach
 
 ## 🛠️ Pipeline
 
@@ -30,7 +46,11 @@
 
 ## 📊 Dataset
 
-GSEval uses images from the COCO dataset's unlabeled2017 split. You can download the dataset from: [Hugging Face](https://huggingface.co/datasets/hustvl/GSEval)
+Our dataset consists of:
+- **Training Set**: 9.56M samples with diverse referring expressions
+- **Evaluation Benchmark**: 3,800 carefully curated instances
+
+You can download the GSEval from: [Hugging Face](https://huggingface.co/datasets/hustvl/GSEval)
 
 ## 🚀 Usage
 
