@@ -85,5 +85,10 @@ python evaluate_grounding.py --image_dir ./images --gt_file GroundingSuite-Eval.
 If you find GroundingSuite useful in your research or applications, please consider giving us a star ⭐ and citing it using the following BibTeX entry:
 
 ```bibtex
-
+@misc{hu2025groundingsuite,
+  title={GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding},
+  author={Rui Hu and Lianghui Zhu and Yuxuan Zhang and Tianheng Cheng and Lei Liu and Heng Liu and Longjin Ran and Xiaoxin Chen and Wenyu Liu and Xinggang Wang},
+  journal={arXiv preprint arXiv:2503.10596},
+  year={2025}
+}
 ```
