@@ -9,7 +9,7 @@
 (\* equal contribution, 🌟 Project lead, 📧 corresponding author)
 
 
-[![arxiv paper](https://img.shields.io/badge/arXiv-Paper-red)]([https://arxiv.org/abs/](https://arxiv.org/abs/2503.10596))
+[![arxiv paper](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/2503.10596)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 </div>
