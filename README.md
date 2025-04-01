@@ -44,6 +44,16 @@ GroundingSuite is a comprehensive pixel grounding framework that addresses the c
 <img src="./assets/pipeline.png">
 </div>
 
+## 📊 Results
+
+<div align="center">
+<img src="./assets/gseval.png">
+</div>
+
+<div align="center">
+<img src="./assets/gseval_box.png">
+</div>
+
 ## 📊 Dataset
 
 Our dataset consists of:
