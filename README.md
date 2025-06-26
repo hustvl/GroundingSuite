@@ -8,6 +8,7 @@
 
 (\* equal contribution, 🌟 Project lead, 📧 corresponding author)
 
+<b>ICCV 2025</b>
 
 [![arxiv paper](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/2503.10596)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -19,7 +20,7 @@
 </div>
 
 ## 📋 News
-
+`[2025-6-26]:` GroundingSuite has been accepted by **ICCV 2025**!
 `[2025-3-14]:` GroundingSuite [arXiv](https://arxiv.org/abs/2503.10596) paper released. Code and dataset are now available!
 
 ## 🌟 Highlights
