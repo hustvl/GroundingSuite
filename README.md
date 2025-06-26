@@ -20,7 +20,7 @@
 </div>
 
 ## 📋 News
-`[2025-6-26]:` GroundingSuite has been accepted by **ICCV 2025**!
+`[2025-6-26]:` GroundingSuite has been accepted by **ICCV 2025**!\
 `[2025-3-14]:` GroundingSuite [arXiv](https://arxiv.org/abs/2503.10596) paper released. Code and dataset are now available!
 
 ## 🌟 Highlights
